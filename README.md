@@ -59,6 +59,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/SrBauer/SrBauer/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="200" src="https://i.gifer.com/origin/f5/f5baef4b6b6677020ab8d091ef78a3bc_w200.gif"  />
+</div>
 
 ###
